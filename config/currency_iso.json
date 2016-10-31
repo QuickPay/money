@@ -1022,13 +1022,13 @@
     "symbol": "kr",
     "alternate_symbols": ["Íkr"],
     "subunit": null,
-    "subunit_to_unit": 1,
+    "subunit_to_unit": 100,
     "symbol_first": true,
     "html_entity": "",
     "decimal_mark": ",",
     "thousands_separator": ".",
     "iso_numeric": "352",
-    "smallest_denomination": 1
+    "smallest_denomination": 100
   },
   "jmd": {
     "priority": 100,
